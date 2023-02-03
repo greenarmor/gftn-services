@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.6.0",
-    "@angular/cli": "^7.3.5",
+    "@angular/cli": "^15.1.4",
     "@angular/compiler-cli": "^7.2.8",
     "@angular/language-service": "^7.2.8",
     "@types/elasticsearch": "^5.0.25",
